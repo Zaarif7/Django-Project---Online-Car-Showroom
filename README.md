@@ -1,1 +1,11 @@
-Online Car Showroom
+{
+    "python.testing.unittestArgs": [
+        "-v",
+        "-s",
+        "./car_showroom",
+        "-p",
+        "*test.py"
+    ],
+    "python.testing.pytestEnabled": false,
+    "python.testing.unittestEnabled": true
+}
